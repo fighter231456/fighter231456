@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name] 
+# Hi there 👋, I'm Fight 
 
 **Software Engineer | Full-Stack Developer | AI Integration Enthusiast**
 
@@ -10,7 +10,7 @@ I am a Computer Engineering graduate from RMUTP with a strong focus on building 
 - 🎓 **Education:** B.Eng. in Computer Engineering, Rajamangala University of Technology Phra Nakhon (RMUTP)
 - 💼 **Current Focus:** Full-stack architecture, Multi-site ecosystems, and AI/OCR integrations.
 - 🤝 **Work Style:** Strategic thinker, team player, and focused on delivering true business value through code.
-- 📫 **How to reach me:** [your.email@example.com](mailto:your.email@example.com)
+- 📫 **How to reach me:** [fighter231456@gmail.com]
 
 ---
 
